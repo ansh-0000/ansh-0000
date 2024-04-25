@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ansh-0000
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning paython, web development
