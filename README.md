@@ -1,5 +1,3 @@
-Got it 👍 You want me to create a **GitHub profile README** like the one you showed, but personalized for you. Since I know a bit about you (Frontend Developer, Data Scientist, GATE prep, projects in React, DSA, etc.), here’s a well-structured draft for your GitHub README:
-
 ---
 
 # 👋 Hi, I'm Ansh Vashist 💻
@@ -80,11 +78,24 @@ Got it 👍 You want me to create a **GitHub profile README** like the one you s
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-![Ansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=procodrr\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=procodrr\&layout=compact\&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=procodrr\&theme=radical)
+<div align="center">
+
+<!-- GitHub Stats -->
+![Ansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=procodrr&show_icons=true&theme=tokyonight&hide_border=true)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=procodrr&layout=compact&theme=tokyonight&hide_border=true)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=procodrr&theme=tokyonight&hide_border=true)
+
+<!-- Contribution Snake -->
+![GitHub Snake](https://github.com/procodrr/procodrr/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
 
 ---
 
@@ -92,8 +103,7 @@ Got it 👍 You want me to create a **GitHub profile README** like the one you s
 
 * 📧 Email: **[anshvashist.dev@gmail.com](mailto:anshvashist.dev@gmail.com)**
 * 🌐 Portfolio: *coming soon*
-* 💼 LinkedIn: \[Your LinkedIn Profile]
-* 🐦 Twitter/X: \[Your X Profile]
+* 💼 LinkedIn: https://www.linkedin.com/in/ansh-vashist-1b4534301
 
 ---
 
