@@ -78,26 +78,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">
-
-<!-- GitHub Stats -->
-![Ansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=procodrr&show_icons=true&theme=tokyonight&hide_border=true)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=procodrr&layout=compact&theme=tokyonight&hide_border=true)
-
-<!-- Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=procodrr&theme=tokyonight&hide_border=true)
-
-<!-- Contribution Snake -->
-![GitHub Snake](https://github.com/procodrr/procodrr/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-
----
 
 ## 📫 Connect with Me
 
