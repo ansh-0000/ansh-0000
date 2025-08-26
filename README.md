@@ -12,7 +12,7 @@
 * 📊 Preparing for **GATE 2026 (CS + AI/DS)** alongside college.
 * 💻 Skilled in **React.js, JavaScript, Python, and Data Science tools**.
 * 🤖 Interested in **Artificial Intelligence, Machine Learning, and Smart Wearables**.
-* 🎓 Pursuing **B.Tech in Computer Science & Engineering** (New Delhi).
+* 🎓 Pursuing **B.Tech in Artificial intelligence and Data science ** (New Delhi).
 * 🎮 In my free time, I enjoy **gaming, designing, and fitness**.
 
 ---
