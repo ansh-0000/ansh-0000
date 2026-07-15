@@ -26,7 +26,7 @@
 - ⚙️ Skilled in **React, Next.js, Tailwind, Python, Pandas, and TensorFlow**.  
 - 🎓 Pursuing **B.Tech in Artificial Intelligence and Data Science (New Delhi)**.  
 - 💻 Passionate about **Building Smart Web Apps & Data-driven Solutions**.  
-- 📬 Reach me at: **anshvashist.dev@gmail.com**
+- 📬 Reach me at: **anshvashist31@gmail.com**
 
 ---
 
